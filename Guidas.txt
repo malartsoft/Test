@@ -1,8 +1,8 @@
 
 *********************** APP Screen watch**********************
 
-1. Open app screen watch
-
+1. Open add screen watch
+1.1 acd;
 2. Press the key combination Ctrl + Alt + Shift + S to start.
    Program will run hide
 		Pressed
