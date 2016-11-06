@@ -1,0 +1,40 @@
+
+*********************** APP Screen watch**********************
+
+1. Open app screen watch
+
+2. Press the key combination Ctrl + Alt + Shift + S to start.
+   Program will run hide
+		Pressed
+	and result....
+3. After each 2s, program will write screen image on file
+   with format name file "Screen yymmdd hhmmss.bmp"
+   All file image save in folder "Image_ScreenWatch"
+
+4. Press the key combination Ctrl + Alt + Shift + S again to end
+   Program will appear become
+
+5. Press File=> exit or press 'X' to exit
+
+
+*********************** APP Trash Hijack***********************
+1. Open app Trash Hijack
+
+2. Press the key combination Ctrl + Alt + Shift + C to start, 
+   Program will run hide
+		Pressed
+and result...
+
+ Copy finish and result
+3. Exemple copy text. After each 2s, program will write this text into file
+   with file name is Text_Clipboard
+
+Press finish and result... another
+4. Exemple press PrntScr. After each 2s, program will write this image screen 
+   on file with format name file "Screen yymmdd hhmmss.bmp". 
+   All file image save in folder "Image_Screen_Clipboard"
+
+5. Press the key combination Ctrl + Alt + Shift + C again to end
+   Program will appear become
+
+6. Press File=> exit or press 'X' to exit
